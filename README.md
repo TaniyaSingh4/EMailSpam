@@ -1,2 +1,1 @@
-# email-spam-classifier-new
-End to end code for the email spam classifier project
+EMAIL - SPAM DETECTION USING MULTINOMIALNB WITH PRECISION 1.0 AND ACCURACY 97.5
